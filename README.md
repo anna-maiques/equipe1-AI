@@ -30,13 +30,12 @@ Draw.io  ---> Fluxograma
 # Tecnologia IA utilizada:
 
 A OpenAI API foi escolhida por causa da sua capacidade de compreender linguagem natural e gerar respostas contextualizadas. 
-O Google Colab foi usado para fazer o modelo teste
-O LangChain foi utilizado para facilitar a integração entre o modelo de IA e os dados operacionais do condomínio.
+O Google Colab foi usado para fazer o modelo teste.
 
-## Fluxograma
+# Fluxograma
 
 ![Fluxograma](Fluxograma_GoodCharge.drawio.png)
 
-## Modelo de Teste
+# Modelo de Teste
 
-(Adicionar link do modelo de teste)
+https://colab.research.google.com/drive/1qYC9qGgdmIeXw6Agd3nHmMtVymeMBIB7?usp=sharing 
