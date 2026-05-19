@@ -35,7 +35,7 @@ O LangChain foi utilizado para facilitar a integração entre o modelo de IA e o
 
 # Fluxograma
 
-(Adicionar imagem aqui)
+![Fluxograma](Fluxograma_GoodChange.drawio.png)
 
 ## Modelo de Teste
 
