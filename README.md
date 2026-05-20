@@ -20,12 +20,11 @@ O nosso projeto propõe um chatbot inteligente para auxiliar síndicos e morador
 
 # Tecnologias Utilizadas
 
-Tecnologia -> Função
-OpenAI API -> Inteligência artificial 
-Python   ---> Backend 
-LangChain --> Gerenciamento de contexto 
-GitHub   ---> Versionamento 
-Draw.io  ---> Fluxograma 
+OpenAI API: IA
+
+Python: Backend 
+
+Draw.io: Fluxograma 
 
 # Tecnologia IA utilizada:
 
